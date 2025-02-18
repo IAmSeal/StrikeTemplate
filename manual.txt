@@ -10,3 +10,11 @@ Please follow the checklist:
 4. Go to autons.cpp and make your autons
 5. Ask me for help if you need it. If you don't know where
 to find me, then you shouldn't have this template.
+
+Jerry Code Template:
+
+path: `// ${name}
+
+${code}
+`
+moveToPoint: `chassis.moveToPose(${x}, ${y}, ${heading}, 10000, {}, false);`
