@@ -1,0 +1,12 @@
+Welcome to StrikeTemplate!
+
+Please follow the checklist:
+
+1. Read ALL of the lemlib and robodash documentation
+    Lemlib: https://lemlib.readthedocs.io/en/v0.5.0/index.html#
+    Robodash: https://robodash.readthedocs.io/en/latest/index.html
+2. Look through the chassis.cpp file and add your values
+3. Go to opcontrol in main.cpp and add your mechs and stuff
+4. Go to autons.cpp and make your autons
+5. Ask me for help if you need it. If you don't know where
+to find me, then you shouldn't have this template.
